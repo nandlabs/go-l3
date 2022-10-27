@@ -169,7 +169,7 @@ func loadConfig() *LogConfig {
 }
 
 //Get function will return the logger object for that package
-func Get() *BaseLogger {
+func Get() Logger {
 	mutex.Lock()
 	defer mutex.Unlock()
 	pc, _, _, _ := runtime.Caller(1)
