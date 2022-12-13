@@ -1,5 +1,5 @@
-This repository is archived and has been  absorbed into  [go-commons](https://github.com/nandlabs/go-commons).
-No future work will happen over here and this repository will eventually be deleted.
+## This repository is archived and has been  absorbed into  [go-commons](https://github.com/nandlabs/go-commons).
+## No future work will happen over here and this repository will eventually be deleted !
 
 
 # go-l3
